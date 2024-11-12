@@ -1,0 +1,12 @@
+/* custom.css */
+body {
+    width: 90%;      /* Adjust page width */
+    margin: auto;    /* Center the content */
+}
+
+.container {
+    max-width: 800px;   /* Set maximum width */
+    padding: 20px;      /* Set padding/margins */
+    margin: auto;
+}
+
